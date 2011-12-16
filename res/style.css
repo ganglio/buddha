@@ -1,0 +1,79 @@
+/* #89D200 */
+
+body {
+	background: black;
+	margin:0;
+}
+
+#buddha {
+	background-color: #89D200;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 5px 5px 5px rgba(255, 255, 255, 0.5) inset, -5px -5px 5px rgba(0, 0, 0, 0.5) inset;
+	height: 480px;
+	left: 50%;
+	margin-left: -160px;
+	margin-top: -240px;
+	position: absolute;
+	top: 50%;
+	width: 320px;
+	background-image: url(logo.png);
+	background-size: 52px 60px;
+	background-repeat: no-repeat;
+	background-position: 131px 100px;
+}
+
+#speaker {
+	background-color: #89D200;
+	height: 240px;
+	left: 40px;
+	position: absolute;
+	top: 200px;
+	width: 240px;
+	box-shadow: 5px 5px 5px rgba(255, 255, 255, 0.5) inset, -5px -5px 5px rgba(0, 0, 0, 0.5) inset;
+	border-radius: 120px;
+}
+
+#speaker:after {
+	background:
+		radial-gradient(black 2px, transparent 3px) 0 0,
+		radial-gradient(black 2px, transparent 3px) 8px 8px,
+		radial-gradient(rgba(255,255,255,.1) 2px, transparent 4px) 0 1px,
+		radial-gradient(rgba(255,255,255,.1) 2px, transparent 4px) 8px 9px;
+	background-size:16px 16px;
+	border-radius: 100px 100px 100px 100px;
+	content: "";
+	height: 200px;
+	left: 20px;
+	position: absolute;
+	top: 20px;
+	width: 200px;
+}
+
+#button {
+    border-radius: 25px;
+    box-shadow: -1px -1px 1px rgba(255, 255, 255, 0.5) inset, 1px 1px 1px rgba(0, 0, 0, 0.5) inset;
+    height: 50px;
+    width: 50px;
+    left: 40px;
+    position: absolute;
+    top: 40px;
+}
+
+#button:after {
+    border-radius: 24px;
+    content: "";
+    height: 48px;
+    position: absolute;
+    width: 48px;
+    top:1px;
+    left:1px;
+    box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5) inset, -1px -1px 1px rgba(0, 0, 0, 0.5) inset;
+}
+
+#button:active:after {
+	box-shadow: none;
+	border:1px solid rgba(0,0,0,0.5);
+	box-sizing: border-box;
+	height:47px;
+	width:47px;
+}
