@@ -7,7 +7,7 @@ body {
 
 #buddha {
 	background-color: #89D200;
-	border-radius: 20px 20px 20px 20px;
+	border-radius: 20px;
 	box-shadow: 5px 5px 5px rgba(255, 255, 255, 0.5) inset, -5px -5px 5px rgba(0, 0, 0, 0.5) inset;
 	height: 480px;
 	left: 50%;
@@ -16,10 +16,10 @@ body {
 	position: absolute;
 	top: 50%;
 	width: 320px;
-	background-image: url(logo.png);
-	background-size: 52px 60px;
+	background-image: url(logo.svg);
+	background-size: 80px 92;
 	background-repeat: no-repeat;
-	background-position: 131px 100px;
+	background-position: center 100px;
 }
 
 #speaker {
