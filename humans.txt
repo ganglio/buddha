@@ -1,0 +1,28 @@
+/* TEAM */
+	Master Chef: Roberto Torella
+	Contact: roberto.torella [at] gmail.com
+	Twitter: @ganglio
+	Website: http://ganglio.eu/
+	From: London, United Kingdom
+
+	Graphical Advisor: Emiliano Rampazzi
+	Twitter: @kappasette22
+	Website: http://www.kappasette.com/
+	From:Rome, Italy
+	
+/* THANKS */
+
+	PrefixFree developer: Lea Verou
+	Twitter: @LeaVerou
+	Website: http://lea.verou.me/
+	
+	Original Buddha Machine Inventors: FM3
+	Actual guy 1: Christiaan Virant
+	Actual guy 2: Zhang Jian
+	Website: http://www.fm3buddhamachine.com/
+
+/* SITE */
+	Started: 2011/12/16
+	Ended: still going :D
+	Language: English
+	Doctype:HTML5

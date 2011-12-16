@@ -6,7 +6,7 @@
      width="52px" height="60px"
      viewBox="0 0 522 599">
   <path id="Selection"
-        fill="rgba(255,255,255,0.5)" stroke="rgba(0,0,0,0.5)" stroke-width="2"
+        fill="rgba(255,255,255,0.25)" stroke="rgba(0,0,0,0.25)" stroke-width="2"
         d="M 331.00,228.80
            C 331.00,228.80 379.00,247.75 379.00,247.75
              385.99,251.25 394.19,255.86 399.07,262.09
